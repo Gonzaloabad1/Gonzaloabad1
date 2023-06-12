@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, HTML5, CSS3**
-
 - 🌍 I´m bassed in **Ciudad Real, Spain**
+
+- 🌱 I’m currently learning **JavaScript, HTML5, CSS3**
 
 - 📝 I regularly write articles on [https://suenosjovenescritor.blogspot.com/](https://suenosjovenescritor.blogspot.com/)
 
