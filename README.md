@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML5, CSS3**
 
-- 📝 I regularly write articles on [https://suenosjovenescritor.blogspot.com/](https://suenosjovenescritor.blogspot.com/)
+- 📝 I regularly write articles on [https://suenosjovenescritor.blogspot.com/]
+- ](https://suenosjovenescritor.blogspot.com/)
 
 - 📫 How to reach me **goabad18@outlook.com**
 
