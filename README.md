@@ -1,4 +1,4 @@
-<img src="[https://appsembler.com/wp-content/uploads/2023/07/beemarrie_developer_marketing_computer_strategy_deda1786-e5df-4461-957a-01d758880ac0.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv1s1K367t6Z1MVo26hUUUJUZfOjSTYK3rZOkmHtegVA&s=10)">
+<img src="https://www.developer-tech.com/wp-content/uploads/2025/03/TechHQ-2.jpg">
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
