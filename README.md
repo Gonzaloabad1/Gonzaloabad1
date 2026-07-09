@@ -1,6 +1,6 @@
 <img src="https://www.developer-tech.com/wp-content/uploads/2025/03/TechHQ-2.jpg">
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h3 align="center"A passionate Full-Stack developer and web designer.</h3>
+<h3 align="centerA passionate Full-Stack developer and web designer.</h3>
 
 - 🌍 I´m bassed in **Ciudad Real, Spain**
 
