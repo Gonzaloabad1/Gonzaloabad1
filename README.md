@@ -4,7 +4,7 @@
 -A passionate Full-Stack developer and web designer
 - 🌍 I´m bassed in **Ciudad Real, Spain**
 
-- 🌱 I’m currently learning **JavaScript, HTML5, CSS3**
+- 🌱 I’m currently work with **JavaScript, HTML5, CSS3, Spring Tools suite, Express, nodejs..**
 
 - 📝 I regularly write articles on [https://suenosjovenescritor.blogspot.com/]
   (https://suenosjovenescritor.blogspot.com/)
