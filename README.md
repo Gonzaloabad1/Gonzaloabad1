@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently work with **JavaScript, HTML5, CSS3, Spring Tools suite, Express, nodejs..**
 
-- 📝 I regularly write articles on [https://suenosjovenescritor.blogspot.com/]
+- 📝 I regularly write stories on [https://suenosjovenescritor.blogspot.com/]
   (https://suenosjovenescritor.blogspot.com/)
 
 - 📫 How to reach me **goabad18@outlook.com**
